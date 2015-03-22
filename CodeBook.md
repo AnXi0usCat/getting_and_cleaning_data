@@ -1,5 +1,5 @@
-Feature Selection 
-=================
+# Feature Selection 
+
 
 ## From the original dataset:
 
@@ -58,7 +58,7 @@ The feature varibles obtained from the original dataset were grouped according t
 from each group. These subsets can be identified by the postfix "Average value" for mean and
 "Standard Deviation" for Standard Deviation.
 
-# Mean Values
+### Mean Values
 
 tBodyAcc mean X average value           (dbl) 0.2215982, 0.2612376, 0.2789176, 0.2773308, 0.2891883, 0.2554617, 0.2813734, 0.2770874, 0.277911...
 tBodyAcc mean Y average value           (dbl) -0.040513953, -0.001308288, -0.016137590, -0.017383819, -0.009918505, -0.023953149, -0.018158740...
@@ -127,7 +127,7 @@ fBodyBodyGyroMag std average value      (dbl) -0.8243194, -0.9321984, -0.9784661
 fBodyBodyGyroJerkMag mean average value (dbl) -0.9423669, -0.9897975, -0.9948154, -0.3193086, -0.2819634, -0.6346651, -0.9902487, -0.9898620, ...
 fBodyBodyGyroJerkMag std average value  (dbl) -0.93266067, -0.98704962, -0.99467112, -0.38160191, -0.39191988, -0.69393052, -0.98949266, -0.98...
 
-# Standard Deviations
+### Standard Deviations
 
 tBodyAcc mean X standard deviation           (dbl) 0.168930385, 0.063329657, 0.007991828, 0.046391727, 0.084156488, 0.049961910, 0.024191932, ...
 tBodyAcc mean Y standard deviation           (dbl) 0.118675803, 0.047465297, 0.010908212, 0.018186684, 0.025822222, 0.021747887, 0.005013240, ...

@@ -1,4 +1,4 @@
-### Describtion of the inner workings of run_analysis.R
+# Describtion of the inner workings of run_analysis.R
 
 ## How to read in the textual file into R
 If you wish to test the output of this script please use the text file
